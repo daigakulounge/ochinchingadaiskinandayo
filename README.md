@@ -58,7 +58,7 @@ https://www.tandem.net/
 ## Video lessons ##
 https://www.youtube.com/channel/UCBSyd8tXJoEJKIXfrwkPdbA - Japanese Ammo with Misa
 
-https://pastebin.com/BpUddYEG - Dogen 1-55
+https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/dogen - Dogen 1-56
 
 ## Files ##
 https://docs.google.com/spreadsheets/d/1DePfUBtzlya3-ylCGkOERDjFucbZJNVoWf-5uem76U4/edit - Tanuki Simplified
