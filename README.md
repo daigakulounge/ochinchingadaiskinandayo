@@ -65,6 +65,8 @@ https://docs.google.com/spreadsheets/d/1DePfUBtzlya3-ylCGkOERDjFucbZJNVoWf-5uem7
 
 https://docs.google.com/spreadsheets/d/1yb5dq4ahdwc_g0aQTL3YM6i2mKiZ2m-AvhpwygbZD4A/edit#gid=247182902 - Kanji Frequency by corpus with cumulate
 
+https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/tatoeba_en_jp.json - дамп пар предложений английский/японский в json
+
 ## Apps ##
 https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en - Kanji Study
 
