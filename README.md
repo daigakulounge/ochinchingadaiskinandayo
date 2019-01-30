@@ -71,3 +71,6 @@ https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/tatoeba_en
 https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en - Kanji Study
 
 https://itunes.apple.com/us/app/kanji-study/id400074354?mt=8 - Kanji Study
+
+## Фильмы и сериалы на японском ##
+https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/movies.md - список ссылок на фильмы с японским дубляжом 
