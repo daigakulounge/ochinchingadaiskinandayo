@@ -1,7 +1,9 @@
 
 
 ## Учебные материалы ##
-https://djtguide.neocities.org/ 
+https://djtguide.neocities.org/ - подброка разных полезных вещей из Daily Japanese Thread на 4chan (архив)
+
+https://itazuraneko.neocities.org/ - новые ресурс DJT 
 
 http://www.boku.ru/learn-japanese/
 
