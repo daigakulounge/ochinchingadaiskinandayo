@@ -13,6 +13,8 @@ https://alex7kom.me/guide-to-japanese/ - ещё один Тае Ким русс�
 
 http://www.guidetojapanese.org/learn - Тае Ким оригинал
 
+https://www.imabi.net/ - курс японского языка
+
 http://krakozyabr.ru/
 
 http://maggiesensei.com/
