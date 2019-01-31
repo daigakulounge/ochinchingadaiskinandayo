@@ -67,6 +67,12 @@ https://docs.google.com/spreadsheets/d/1yb5dq4ahdwc_g0aQTL3YM6i2mKiZ2m-AvhpwygbZ
 
 https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/tatoeba_en_jp.json - дамп пар предложений английский/японский в json
 
+https://docs.google.com/spreadsheets/d/1fEplq1S5f9wyVPzgzJw3v2l54w1KuvDf9yvNPU3AbG4/pubhtml?widget=true&headers=false - ссылки на mega с различными книгами и пособиями по японскому языку ( https://djtguide.neocities.org/cor.html )
+
+
+https://docs.google.com/spreadsheets/d/1be-gX3ozkYBVbGVLAJHc8P6-gKCfZkVPRA_V6VaSQ00/pubhtml# - описания и разбивка по уровню сложности языка игр и манги (для части присутствуют ссылки для скачивания) - ( https://djtguide.neocities.org/reading%20list.html )
+
+
 ## Apps ##
 https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en - Kanji Study
 
