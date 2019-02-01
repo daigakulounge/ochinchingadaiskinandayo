@@ -67,15 +67,11 @@ https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/dogen - Do
 ## Files ##
 https://docs.google.com/spreadsheets/d/1DePfUBtzlya3-ylCGkOERDjFucbZJNVoWf-5uem76U4/edit - Tanuki Simplified
 
-https://docs.google.com/spreadsheets/d/1yb5dq4ahdwc_g0aQTL3YM6i2mKiZ2m-AvhpwygbZD4A/edit#gid=247182902 - Kanji Frequency by corpus with cumulate
-
 https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/tatoeba_en_jp.json - дамп пар предложений английский/японский в json
 
 https://docs.google.com/spreadsheets/d/1fEplq1S5f9wyVPzgzJw3v2l54w1KuvDf9yvNPU3AbG4/pubhtml?widget=true&headers=false - ссылки на mega с различными книгами и пособиями по японскому языку ( https://djtguide.neocities.org/cor.html )
 
-
 https://docs.google.com/spreadsheets/d/1be-gX3ozkYBVbGVLAJHc8P6-gKCfZkVPRA_V6VaSQ00/pubhtml# - описания и разбивка по уровню сложности языка игр и манги (для части присутствуют ссылки для скачивания) - ( https://djtguide.neocities.org/reading%20list.html )
-
 
 ## Apps ##
 https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en - Kanji Study
@@ -86,3 +82,13 @@ https://itunes.apple.com/us/app/kanji-study/id400074354?mt=8 - Kanji Study
 https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/movies.md - список ссылок на фильмы с японским дубляжом 
 
 https://www.netflix.com/browse/audio/ja - продукция нетфликс с озвучкой на японском
+
+
+## Частотные списки ###
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Japanese - результат обработки японской Википедии морфологическим анализатором JUMAN
+
+https://docs.google.com/spreadsheets/d/1yb5dq4ahdwc_g0aQTL3YM6i2mKiZ2m-AvhpwygbZD4A/edit#gid=247182902 - Kanji Frequency by corpus with cumulate
+
+http://www.manythings.org/japanese/words/leeds/ - частотный список 15К японских слов из интернет-корпуса
+
+https://iknow.jp/content/japanese - 6К слов. Хотя ресурс и платный, здесь достаточно информации, чтобы растащить её в Анки-колоду
