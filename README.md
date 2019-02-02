@@ -92,3 +92,8 @@ https://docs.google.com/spreadsheets/d/1yb5dq4ahdwc_g0aQTL3YM6i2mKiZ2m-AvhpwygbZ
 http://www.manythings.org/japanese/words/leeds/ - частотный список 15К японских слов из интернет-корпуса
 
 https://iknow.jp/content/japanese - 6К слов. Хотя ресурс и платный, здесь достаточно информации, чтобы растащить её в Анки-колоду
+
+
+## @daigaku_lounge specifics ##
+#### теги от Раса ####
+#гайд #фишки #учительсильвер #японскиефишки #гайдотдоки #словарь #какучитьслова #ваига #виталик #каллиграфия #внки  #таеким #андроид 
