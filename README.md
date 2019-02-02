@@ -7,9 +7,9 @@ https://itazuraneko.neocities.org/ - новый сайт DJT
 
 http://www.boku.ru/learn-japanese/
 
-http://vandal.sdf-eu.org/JapaneseGuide/ - Тае Ким русский перевод
+http://vandal.sdf-eu.org/JapaneseGuide/ - Тае Ким русский перевод ( Grammar Guide )
 
-https://alex7kom.me/guide-to-japanese/ - ещё один Тае Ким русский перевод
+https://alex7kom.me/guide-to-japanese/ - ещё один Тае Ким русский перевод ( Complete Guide )
 
 http://www.guidetojapanese.org/learn - Тае Ким оригинал
 
