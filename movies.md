@@ -77,6 +77,36 @@
 «Хроники Нарнии: Лев, колдунья и волшебный шкаф» 
 Фильм в облаке https://cloud.mail.ru/public/25jV/6eVdDvhNV
 
+Ant-Man and the Wasp. アントマン&ワスプ. Человек-муравей и Оса
+https://cloud.mail.ru/public/AgWh/68Ppz3LoA
+
+Mission: Impossible – Fallout. ミッション:インポッシブル/フォールアウト. Миссия невыполнима: Последствия
+https://cloud.mail.ru/public/6PuZ/4zvaXX84q
+
+Men in Black 1-3. メン・イン・ブラック 1-3
+https://cloud.mail.ru/public/8WGx/pur6zVqXD
+
+How to Train Your Dragon. ヒックとドラゴン. Как приручить дракона
+https://cloud.mail.ru/public/2VTQ/3raviXwaW
+
+Hotel Transylvania 1-3. モンスター・ホテル 1-3. Монстры на каникулах 1-3
+https://cloud.mail.ru/public/DFPY/brB7Uxvt3
+
+The Emperor's New Groove. ラマになった王様. Похождения императора
+https://cloud.mail.ru/public/G16j/3dgVTNtzb
+
+The Incredibles. Mr.インクレディブル. インクレディブル・ファミリー. Суперсемейка 1-2
+https://cloud.mail.ru/public/9PQb/3tPQfjhLc/
+
+Ratatouille. レミーのおいしいレストラン. Рататуй
+https://cloud.mail.ru/public/7KMv/EvRtuk1Ep
+
+Wreck-It Ralph. シュガー・ラッシュ. Ральф
+https://cloud.mail.ru/public/7Afb/SqWnezGf2
+
+Song of the Sea. ソング・オブ・ザ・シー 海のうた. Песнь моря
+https://cloud.mail.ru/public/DkNi/7bacyKSck
+
 
 ## Сериалы ##
 
@@ -113,4 +143,7 @@ https://cloud.mail.ru/public/DF3Y/4uTYdSo1k
 https://cloud.mail.ru/public/6vpZ/uSB3bs1eW
 
 
- ### Всё, что выше - из https://vk.com/gakuvk ###
+ ### Источники ###
+ https://vk.com/gakuvk 
+ 
+ 
