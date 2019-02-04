@@ -29,6 +29,9 @@ https://b-ok.cc/book/2369123/a92c6f - книга
 
 https://blog.fluent-forever.com/how-to-learn-japanese-or-chinese-update/ - план как учить японский или китайский по методу Forever Fluent
 
+https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/jp625-ish.csv - переработанный список английских 625 слов
+
+
 ## Онлайн-сервисы ##
 https://www.japanese.io - упрощение чтения
 
