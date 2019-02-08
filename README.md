@@ -13,6 +13,10 @@ https://alex7kom.me/guide-to-japanese/ - ещё один Тае Ким русс�
 
 http://www.guidetojapanese.org/learn - Тае Ким оригинал
 
+https://github.com/ignatiusreza/taekim/commit/b0d731cbf4a9b760eb136ae20a1db520f05ade21 - курс Тае Кима (англ) в виде приложения для Android
+
+https://itunes.apple.com/us/app/learning-japanese/id377785100?mt=8 - курс Тае Кима (англ) в виде приложения для iOS
+
 https://www.imabi.net/ - курс японского языка
 
 http://krakozyabr.ru/
