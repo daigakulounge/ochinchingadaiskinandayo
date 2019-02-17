@@ -39,6 +39,10 @@ https://blog.fluent-forever.com/how-to-learn-japanese-or-chinese-update/ - пл�
 
 https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/jp625-ish.csv - переработанный список английских 625 слов
 
+### RTK ###
+https://vk.com/wall-32304974_9 - сами книги James W. Heisig - Remembering the Kanji
+
+https://nihongoshark.com/learn-kanji/ - лонгрид от создателя nihongoshark как _относительно_ легко выучить все Jōyō Kanji за меньше, чем 100 дней
 
 ## Онлайн-сервисы ##
 https://www.japanese.io - упрощение чтения
