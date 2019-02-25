@@ -55,6 +55,22 @@ https://tatoeba.org/ - предложения и их переводы на ра
 
 http://www.japaneseverbconjugator.com/ - спрягатель глаголов
 
+## Словари ##
+http://nihongo.monash.edu/cgi-bin/wwwjdic?1C  - WWWJDIC
+
+https://play.google.com/store/apps/details?id=org.nick.wwwjdic&hl=en - WWWJDIC Android
+
+https://jisho.org/ 
+
+https://yarxi.ru/ 
+
+http://takoboto.jp/ 
+
+https://play.google.com/store/apps/details?id=ric.Jsho&hl=en - Jsho
+
+https://play.google.com/store/apps/details?id=com.ginkage.ejlookup&hl=en - EJLookup
+
+
 ## Общение о языках с нейтивами ##
 https://www.tandem.net/
 
@@ -91,9 +107,15 @@ https://docs.google.com/spreadsheets/d/1be-gX3ozkYBVbGVLAJHc8P6-gKCfZkVPRA_V6VaS
 https://b-ok.cc/book/2969336/2d5857 - Толковый японско-русский словарь ономатопоэтических слов
 
 ## Apps ##
-https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en - Kanji Study
-
+https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en 
 https://itunes.apple.com/us/app/kanji-study/id400074354?mt=8 - Kanji Study
+
+https://play.google.com/store/apps/details?id=com.RiotShieldGames.KanGeniusDrop&hl=en_US 
+https://itunes.apple.com/us/app/kanji-drop/id1222370984?mt=8 - Kanji Drop - Игра типа тетриса, где для уничтожения блоков необходимо создавать слова из кандзей
+
+https://play.google.com/store/apps/details?id=io.github.nekotachi.easynews&hl=en_US - приложение с новостями простым языком и аудио-сопровождением.
+
+https://www.beelinguapp.com - приложение для iOS и Android для изучения языков (включая японский), с двуязычными текстами и аудио-сопровождением (частично платное)
 
 ## Фильмы и сериалы на японском ##
 https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/movies.md - список ссылок на фильмы с японским дубляжом 
