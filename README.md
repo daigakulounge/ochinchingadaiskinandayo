@@ -70,7 +70,6 @@ https://play.google.com/store/apps/details?id=ric.Jsho&hl=en - Jsho
 
 https://play.google.com/store/apps/details?id=com.ginkage.ejlookup&hl=en - EJLookup
 
-
 ## Общение о языках с нейтивами ##
 https://www.tandem.net/
 
@@ -122,6 +121,7 @@ https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/movies.md 
 
 https://www.netflix.com/browse/audio/ja - продукция нетфликс с озвучкой на японском
 
+https://kitsunekko.net/ - субтитры на японском
 
 ## Частотные списки ###
 https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Japanese - результат обработки японской Википедии морфологическим анализатором JUMAN
