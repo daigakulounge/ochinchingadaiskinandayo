@@ -125,6 +125,8 @@ https://www.netflix.com/browse/audio/ja - продукция нетфликс с
 
 https://kitsunekko.net/ - субтитры на японском
 
+https://www.daiweeb.org - аниме и дорамы с японскими и английскими субтитрами
+
 ## Частотные списки ###
 https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Japanese - результат обработки японской Википедии морфологическим анализатором JUMAN
 
