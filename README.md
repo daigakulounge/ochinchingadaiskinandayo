@@ -44,6 +44,8 @@ https://vk.com/wall-32304974_9 - сами книги James W. Heisig - Rememberi
 
 https://nihongoshark.com/learn-kanji/ - лонгрид от создателя nihongoshark как _относительно_ легко выучить все Jōyō Kanji за меньше, чем 100 дней
 
+https://drive.google.com/file/d/11pVv36DLN4TRgK-3SAJdi5xAT56S_QZy/view - таблица примитивов RTK
+
 ## Онлайн-сервисы ##
 https://www.japanese.io - упрощение чтения
 
