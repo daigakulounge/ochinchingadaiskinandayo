@@ -5,8 +5,8 @@
 «Кунг-фу панда»
 Фильм в облаке https://cloud.mail.ru/public/LmnA/p45fbyqqQ
 
-«Храбрая сердцем»
-Фильм в облаке https://cloud.mail.ru/public/MRg9/cQHXwmWsz
+«Храбрая сердцем» Frozen
+Фильм в облаке https://cloud.mail.ru/public/MRg9/cQHXwmWsz - https://mega.nz/#!9bRhTCbI!J_LuDpbBg0IaRfMJ7oT4IH9XKfIwjEctz_X2jmKyv0o
 
 «Головоломка»
 Фильм в облаке https://cloud.mail.ru/public/HGgb/VUTYberN1
@@ -107,6 +107,78 @@ https://cloud.mail.ru/public/7Afb/SqWnezGf2
 Song of the Sea. ソング・オブ・ザ・シー 海のうた. Песнь моря
 https://cloud.mail.ru/public/DkNi/7bacyKSck
 
+Robin Hood ロビン・フッド Робин Гуд (мультфильм) - https://cloud.mail.ru/public/2BQh/eVUJBfD6K
+
+Bug's Life バグズ・ライフ Приключения Флика - https://cloud.mail.ru/public/eHLu/nzq5Zrucj
+
+Jurassic World: Fallen Kingdom ジュラシック・ワールド/炎の王国 Мир Юрского периода 2 - https://cloud.mail.ru/public/KTsw/gC7bSja44
+
+Rise of the Guardians ガーディアンズ 伝説の勇者たち Хранители снов - https://cloud.mail.ru/public/Cct4/gtLY12Nyg
+
+Pooh's Grand Adventure: The Search for Christopher Robin くまのプーさん クリストファー・ロビンを探せ! Великое путешествие Пуха: В поисках Кристофера Робина - https://cloud.mail.ru/public/FwoV/2j6v7pijK
+
+Batman Ninja ニンジャバットマン Бэтмен-ниндзя - https://cloud.mail.ru/public/4Q6S/wn4sYuYcS
+
+Puss in Boots 長ぐつをはいたネコ Кот в сапогах (мультфильм, 2011) - https://cloud.mail.ru/public/BA1Y/Wni83Jcbj
+
+IRONMAN - https://mega.nz/#!yNdmXDRZ!qsNN1oE2ei-X5Nq7VjIwc7T1-vjZScQmAUW9xUeWzq8
+
+IRONMAN 2 - https://mega.nz/#!1PpVXABa!QEa_GXiR7c7RXQ_Y_1T_NQ4XEsi32aE8VjQAfkO1fPI
+
+RUSH HOUR - https://mega.nz/#!ZbwjHSAL!tu8v4azNg3gssJFfzBwtA59t9_EWhw7_ZJbpIPivF_8
+
+DIE HARD - https://mega.nz/#!cbBjHZjC!AWsRWJooRPTQmaIzXEb7ykJ5mvhVNatmWPlI0GQNNmM
+
+STAR WARS EPISODE 1: THE PHANTOM MENACE - https://mega.nz/#!pSgiFJzI!p4yWuPfCZ24aOmwvTlOfHRLEKWPenGxizM_xxue18xk
+
+STAR WARS EPISODE 2: ATTACK OF THE CLONES - https://mega.nz/#!sSoimJAB!EmR84oJr26ELU-4lBLDviy30h3SqEQFtlhzbr4bRr6Q
+
+STAR WARS EPISODE 5: EMPIRE STRIKEBACK - https://mega.nz/#!kG5XmQra!d0EtbLTZbo81aTrdXUQ--CXl_GOJMb6pbmYnod_FNcg
+
+STAR WARS EPISODE 4: A NEW HOPE - https://mega.nz/#!vN1F1BLT!tCgquUsRWWWE75DiW6wO0s555_dMFWpg8M-43KFVJ30
+
+STAR WARS EPISODE 3: REVENGE OF THE SITH Jap Dub - https://mega.nz/#!gfYyjIAZ!DnA_c00Yz79Q3tCXtVDoOIisDQ-34V5TQWQLM0FaYGc
+
+LORD OF THE RINGS: THE TWO TOWERS EXTENDED VERSION - https://mega.nz/#F!QHxShSZa!pEF13VpkhN3_cZ6eSIH7pA
+
+HOME ALONE 2: LOST IN NEW YORK - https://mega.nz/#!IGwx3BhI!-f2C_ocGCY4XE_iHMXwab65HJ8XDMolWy3yqVwiTwzw
+
+HOME ALONE - https://mega.nz/#!oO4AXTqb!BHBTJ8Y_DHIr9ddY1G0Jp01dG0wSW8ecYZ17q-X89GU
+
+JURASSIC PARK - https://mega.nz/#!IOADSbpS!nBVhBov8rbsvHfSK4jwkSWs01_aqpVb3Ocqp5ffzD-o
+
+ALIEN 2 (ALIENS) - https://mega.nz/#!2YVCkT5R!LpXjCziycl3TEJrhGCfJ-3P8u6u7ggoGdwLduyrbhPE
+
+X-MEN - https://mega.nz/#!KNFlwTIA!PXRE-i1DZEEFNVQkINmSvRlq8yJdS0DlXKzACHFttZI
+ 
+X-MEN FIRST CLASS - https://mega.nz/#!ad1gAbKD!TE8OanGJeb6J977IMiQRxnKSuvfPYAOMzVxN3kpjBYI
+ 
+MORTAL KOMBAT - https://mega.nz/#!nNFWEbBb!ul0diraTohQHgLgCzxrhOSXZzyKkG29M9VWvj9PPT8c
+ 
+GHOSTBUSTERS - https://mega.nz/#!SBNgTKJA!zQZbPbP0DKlM_cj7vdCS1oZnHcFly3w4zxEtctQfx2Y
+ 
+AUSTIN POWERS 2 THE SPY WHO SHAGGED ME - https://mega.nz/#!OBMVmYTQ!iNX97HzsIuvryMrn8LbVE0V9GOISoJdJrMSjQ_EeiLQ
+ 
+SHERLOCK HOLMES - https://mega.nz/#!WJc2wCAT!oWN7ubDEa5MzumjUj_-hC3nyeoeCrwXxxuU_SHhd3ds
+ 
+SCOTT PILGRIM VS THE WORLD - https://mega.nz/#!uEkRlC7Z!Z0VpNwQXYxvt2RtSBapymrVK9Z7Fs9emfF9_JEYlHi4
+ 
+SPIDERMAN - https://mega.nz/#!PQUSjT5T!0fqPhwX99Uf1UZAJQwQ3zPI2wMWAChyOyXsJ_apJwDo
+
+SPIDERMAN 2 - https://mega.nz/#!uF8QmS5Y!6yqgvCZzZNiu4LA6c1DdhJC-IzvMlL50U0Ou31liGpA
+
+SPIDERMAN 3 - https://mega.nz/#!6dljjATS!qLpLE6oJmgamSpbEKekPQmR_zwIDv1BHmJZmom8q1-A
+
+PACIFIC RIM - https://mega.nz/#!GZ8C2SJC!3i5pQIfWrEsTjYe67LdNzlgZyc3ZmNFfaa1n1gs_0DQ
+ 
+RED - https://mega.nz/#!40oiUYrL!NzxBNOJNekQBv8wylie84qr_XBZEh12bmY1qxJlUwTo
+
+PIRATES OF THE CARIBBEAN: DEADMAN CHEST - https://mega.nz/#!xhZWRBbA!cGaXhjGuSRzPAzYDA2yzF3U_KIRu4U6h2lkw-fToBlg
+
+THE FACULTY (PARASITE) - https://mega.nz/#!5tJDxZzC!kgyiw7ECW7fKauBtuzku87r0QPTRwnXkwh3ZbWZ7Ofg
+
+WELLCOME TO ZOMBIELAND - https://mega.nz/#!Jk5SxJrL!HHc9WmFPjymQdgU4euk4zbCu10Bjx2Pu08ywAo5pU_A
+
 
 ## Сериалы ##
 
@@ -144,6 +216,7 @@ https://cloud.mail.ru/public/6vpZ/uSB3bs1eW
 
 
  ### Источники ###
- https://vk.com/gakuvk 
+vk com/gakuvk 
+japanencodings blogspot com
  
  
