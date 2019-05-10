@@ -27,6 +27,8 @@ http://maggiesensei.com/
 
 https://github.com/olety/japanese-pitch-accent-resources - сборник ресурсов по питч-акценту
 
+https://www.japanesewithanime.com/ - японский на примерах из аниме и манги
+
 ### Как читать вн ###
 https://vk.com/@-23712118-so-you-wanna-be-a-weeb-vstaem-na-put-chteniya-yaponskogo
 
