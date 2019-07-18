@@ -29,6 +29,8 @@ https://github.com/olety/japanese-pitch-accent-resources - сборник рес
 
 https://www.japanesewithanime.com/ - японский на примерах из аниме и манги
 
+https://www.renshuu.org/ - изучение японского, справочник по грамматике, кандзи с примерами предложений
+
 ### Как читать вн ###
 https://vk.com/@-23712118-so-you-wanna-be-a-weeb-vstaem-na-put-chteniya-yaponskogo
 
