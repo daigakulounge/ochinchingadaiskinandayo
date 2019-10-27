@@ -45,7 +45,8 @@ https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/jp625-ish.
 
 ### RTK ###
 https://vk.com/wall-32304974_9 - сами книги James W. Heisig - Remembering the Kanji    
-https://b-ok.cc/book/3399680/2d4dca - RTK, шестое издание
+https://b-ok.cc/book/3399680/2d4dca - RTK vol.1, шестое издание       
+https://b-ok.cc/book/987058/e4e09b - RTK vol.3, с кандзи сверх основного списка
 
 https://nihongoshark.com/learn-kanji/ - лонгрид от создателя nihongoshark как _относительно_ легко выучить все Jōyō Kanji за меньше, чем 100 дней
 
