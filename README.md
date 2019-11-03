@@ -84,6 +84,10 @@ https://play.google.com/store/apps/details?id=ric.Jsho&hl=en - Jsho
 
 https://play.google.com/store/apps/details?id=com.ginkage.ejlookup&hl=en - EJLookup
 
+https://foosoft.net/projects/yomichan/index.html - словарь для Firefox и Chrome с всплывающими словарными статьями     
+
+https://www.youtube.com/watch?v=yExI-Q_kQNg - Импорт японско-японского словаря в yomichan   
+
 ## Общение о языках с нейтивами ##
 https://www.tandem.net/
 
