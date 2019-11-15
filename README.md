@@ -156,7 +156,7 @@ https://docs.google.com/spreadsheets/d/1yb5dq4ahdwc_g0aQTL3YM6i2mKiZ2m-AvhpwygbZ
 
 http://www.manythings.org/japanese/words/leeds/ - частотный список 15К японских слов из интернет-корпуса
 
-https://iknow.jp/content/japanese - 6К слов. Хотя ресурс и платный, здесь достаточно информации, чтобы растащить её в Анки-колоду
+https://iknow.jp/content/japanese - 6К слов. Хотя ресурс и платный, здесь достаточно информации, чтобы растащить её в Анки-колоду - для этого у нас есть [специальный фетчер](https://github.com/daigakulounge/nihongo-wa-jouzu-desu-ne) да и сами колоды там тоже есть.
 
 https://docs.google.com/spreadsheets/d/1Qf3pXJ-XbE7AhXAHQms7YbNngODo9lDiFn41ofad7WA/edit#gid=644677095 - Частотный список 3К, с русским переводом и комментариями (в работе)
 
