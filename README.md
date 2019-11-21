@@ -90,7 +90,9 @@ https://play.google.com/store/apps/details?id=com.ginkage.ejlookup&hl=en - EJLoo
 
 https://foosoft.net/projects/yomichan/index.html - словарь для Firefox и Chrome с всплывающими словарными статьями     
 
-https://www.youtube.com/watch?v=yExI-Q_kQNg - Импорт японско-японского словаря в yomichan   
+https://www.youtube.com/watch?v=yExI-Q_kQNg - Импорт японско-японского Shinmeikai словаря в yomichan     
+https://www.youtube.com/watch?v=5oxdPY9eH48 - Импорт кучи разных словарей в yomichan
+
 
 ## Общение о языках с нейтивами ##
 https://www.tandem.net/
