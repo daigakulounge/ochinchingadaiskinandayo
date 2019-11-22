@@ -73,6 +73,11 @@ https://b-ok.xyz/ - тоже очень большая "библиотека" к
 
 https://www.lingq.com/ - сервис для изучения языков от полиглота Стивена Кауфманна, заточенный на чтение и слушанье.
 
+## Immersion ##   
+
+http://radio.garden/ - красивый и необычный сайт с цифровывми радио со всего мира   
+https://audiobook.jp/ - аудиокниги на японском
+
 ## Словари ##
 http://nihongo.monash.edu/cgi-bin/wwwjdic?1C  - WWWJDIC
 
