@@ -134,7 +134,9 @@ https://docs.google.com/spreadsheets/d/1be-gX3ozkYBVbGVLAJHc8P6-gKCfZkVPRA_V6VaS
 
 https://b-ok.cc/book/2969336/2d5857 - Толковый японско-русский словарь ономатопоэтических слов
 
-https://mega.nz/#F!x4VG3DRL!lqecF4q2ywojGLE0O8cu4A!BgFnyIQL - ссылка на папку в mega с пособиями для японского, старояпонского, а также рюкюского и корейского. Также в верхних директорях многочисленные папки с другими языками мира.     
+https://mega.nz/#F!x4VG3DRL!lqecF4q2ywojGLE0O8cu4A!BgFnyIQL - ссылка на папку в mega с пособиями для японского, старояпонского, а также рюкюского и корейского. Также в верхних директорях многочисленные папки с другими языками мира.   
+
+https://mega.nz/#F!zZE2XSJS!AHJe6zfSuFzXh06XyiNYmA - ссылка на папку в mega со словарями и пособиями по как языкам японской группы разного времени, так и по японскому, корейскому и другим. (возможно частично пересекается с предыдущей ссылокой)
 
 ## Apps ##
 https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en 
