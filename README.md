@@ -76,7 +76,9 @@ https://www.lingq.com/ - сервис для изучения языков от 
 ## Immersion ##   
 
 http://radio.garden/ - красивый и необычный сайт с цифровывми радио со всего мира   
-https://audiobook.jp/ - аудиокниги на японском
+https://audiobook.jp/ - аудиокниги на японском    
+https://www.youtube.com/watch?v=QOLTeO-uCYU - способ повышения плотности материала для иммерсии от Matt vs Japan (можно использовать [премейд колоды](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Decks) как источник аудио)   
+
 
 ## Словари ##
 http://nihongo.monash.edu/cgi-bin/wwwjdic?1C  - WWWJDIC
@@ -136,7 +138,9 @@ https://b-ok.cc/book/2969336/2d5857 - Толковый японско-русск
 
 https://mega.nz/#F!x4VG3DRL!lqecF4q2ywojGLE0O8cu4A!BgFnyIQL - ссылка на папку в mega с пособиями для японского, старояпонского, а также рюкюского и корейского. Также в верхних директорях многочисленные папки с другими языками мира.   
 
-https://mega.nz/#F!zZE2XSJS!AHJe6zfSuFzXh06XyiNYmA - ссылка на папку в mega со словарями и пособиями по как языкам японской группы разного времени, так и по японскому, корейскому и другим. (возможно частично пересекается с предыдущей ссылокой)
+https://mega.nz/#F!zZE2XSJS!AHJe6zfSuFzXh06XyiNYmA - ссылка на папку в mega со словарями и пособиями по как языкам японской группы разного времени, так и по японскому, корейскому и другим. (возможно частично пересекается с предыдущей ссылокой)   
+
+https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Decks - файлы с Анки-колодами по разнообразным аниме, сделанные при помощи subs2srs, т.е. скрин или видео кусок (возможно с японскими субтитрами) с аудио.
 
 ## Apps ##
 https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en 
