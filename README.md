@@ -123,7 +123,9 @@ https://www.tandem.net/
 ## Video lessons ##
 https://www.youtube.com/channel/UCBSyd8tXJoEJKIXfrwkPdbA - Japanese Ammo with Misa
 
-https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/dogen - Dogen 1-56 (курс по питч-акценту)
+https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/dogen - Dogen 1-56 (курс по питч-акценту)    
+
+https://www.youtube.com/watch?v=9903wxInbYw - Аки из Sambon Juku - короткие, но полезные уроки для превращения учебного японского в более естественный   
 
 ## Files ##
 https://docs.google.com/spreadsheets/d/1DePfUBtzlya3-ylCGkOERDjFucbZJNVoWf-5uem76U4/edit - Tanuki Simplified
