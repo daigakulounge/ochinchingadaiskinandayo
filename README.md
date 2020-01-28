@@ -55,36 +55,36 @@ https://mega.nz/#F!us0zECJI!QRAImzfFHRurzw09Jjswfg - Dogen 71+
 https://vk.com/@-23712118-so-you-wanna-be-a-weeb-vstaem-na-put-chteniya-yaponskogo   
 https://fuwanovel.net/2013/02/how-to-read-visual-novels-in-japanese-in-2-years-time-or-1-year-if-you-are-fast-%E2%80%95-learn-to-read-through-vn-or-anime/   
 
-## SRS ## 
+### SRS ### 
 https://apps.ankiweb.net/ - 100% необходима для изучения языков     
 http://subs2srs.sourceforge.net/ - программа для полуавтоматического построения колод с изображениями / видео и субтитрами из видео файла   
 https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Desks - сделанные при помощи subs2srs колоды   
 
-## Video lessons ##
+### Video lessons ###
 https://www.youtube.com/channel/UCBSyd8tXJoEJKIXfrwkPdbA - Japanese Ammo with Misa
 https://www.youtube.com/watch?v=9903wxInbYw - Аки из Sambon Juku - короткие, но полезные уроки для превращения учебного японского в более естественный   
  
 # Различные полезные дополнительные ресурсы #
  
- ## Общение о языках с нейтивами ##
+### Общение о языках с нейтивами ###
 https://www.tandem.net/ - сайт где можно найти людей, которые хотят изучать определённый язык в обмен на свой или язык, который они знают   
 https://www.hellotalk.com/ - сайт на котором люди помогают друг другу в изучении языков
 https://hinative.com/ - сайт для помощи друг в другу в изучении языков, более направленный на конкретные вопросы о специфике языка к нейтивам  
 https://discord.gg/4KNWACD - сервера Дискорд где обитают нативные японоговорящие, которые не прочь пообщаться       
 https://discord.gg/4DhKzmh - ещё один сервер
 
-## Immersion ##   
+### Immersion ###   
 http://radio.garden/ - красивый и необычный сайт с цифровывми радио со всего мира   
 https://audiobook.jp/ - аудиокниги на японском    
 https://www.youtube.com/watch?v=QOLTeO-uCYU - способ повышения плотности материала для иммерсии от Matt vs Japan (можно использовать [премейд колоды](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Decks) как источник аудио)   
 
-## Онлайн преподаватели ##
+### Онлайн преподаватели ###
 https://www.italki.com/ - широко известный сайт с большим числом преподавателей по различным языкам   
 https://www.verbling.com/ - аналогичный italki, но менее известный   
 https://www.tandem.net/ - помимо вышеописанного в нём есть секция с преподавателями за деньги  
 
 
-## Приложения для Android и iOS ##
+### Приложения для Android и iOS ###
 https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en 
 https://itunes.apple.com/us/app/kanji-study/id400074354?mt=8 - Kanji Study   
 https://play.google.com/store/apps/details?id=com.RiotShieldGames.KanGeniusDrop&hl=en_US 
@@ -93,7 +93,7 @@ https://play.google.com/store/apps/details?id=io.github.nekotachi.easynews&hl=en
 https://www.beelinguapp.com - приложение для iOS и Android для изучения языков (включая японский), с двуязычными текстами и аудио-сопровождением (частично платное)   
 https://www.lingq.com/ - сервис и приложение для изучения языков от полиглота Стивена Кауфманна, заточенный на чтение и слушанье.   
 
-## Различные онлайн-сервисы ##
+### Различные онлайн-сервисы ###
 https://www.japanese.io - упрощение чтения   
 https://rhinospike.com/ - аудио on demand   
 https://forvo.com/ - слова и предложения, произнесённые нейтивами   
@@ -104,7 +104,7 @@ https://b-ok.xyz/ - тоже очень большая "библиотека" к
 
 
 
-## Словари ##
+### Словари ###
 http://nihongo.monash.edu/cgi-bin/wwwjdic?1C  - WWWJDIC   
 https://play.google.com/store/apps/details?id=org.nick.wwwjdic&hl=en - WWWJDIC Android   
 https://jisho.org/ - широко известный англо-японский (и обратно) словарь   
@@ -118,7 +118,7 @@ https://www.youtube.com/watch?v=5oxdPY9eH48 - Импорт кучи разных
 https://downloads.freemdict.com/uploads/manjushri/yomichan/ - конкретные файлы-словари для Ёмичан   
 http://jardic.ru/ - сайт со многими словарями    
 
-## Фильмы и сериалы на японском ##
+### Фильмы и сериалы на японском ###
 https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/movies.md - список ссылок на фильмы с японским дубляжом   
 https://www.netflix.com/browse/audio/ja - продукция нетфликс с озвучкой на японском   
 https://kitsunekko.net/ - субтитры на японском   
@@ -126,7 +126,7 @@ https://www.daiweeb.org - аниме и дорамы с японскими и а
 https://japanencodings.blogspot.com/ - блог с западными фильмами и мультфильмами с японской озвучкой   
 
 
-## Files ##
+### Files ###
 https://docs.google.com/spreadsheets/d/1DePfUBtzlya3-ylCGkOERDjFucbZJNVoWf-5uem76U4/edit - Tanuki Simplified   
 https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/tatoeba_en_jp.json - дамп пар предложений английский/японский в json   
 https://docs.google.com/spreadsheets/d/1fEplq1S5f9wyVPzgzJw3v2l54w1KuvDf9yvNPU3AbG4/pubhtml?widget=true&headers=false - ссылки на mega с различными книгами и пособиями по японскому языку ( https://djtguide.neocities.org/cor.html )   
