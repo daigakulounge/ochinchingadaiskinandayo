@@ -181,7 +181,7 @@ Resource|Description
 [https://en.wiktionary.org/wik…](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Japanese) | An output of the morphological analyser JUMAN that processed the Japanese Wikipedia
 [https://docs.google.com/sprea…](https://docs.google.com/spreadsheets/d/1yb5dq4ahdwc_g0aQTL3YM6i2mKiZ2m-AvhpwygbZD4A/edit#gid=247182902) | Kanji Frequency by corpus with cumulatives
 [http://www.manythings.org/jap…](http://www.manythings.org/japanese/words/leeds/) | A frequency list for 15K Japanese words from an online corpus
-[https://iknow.jp/content/japa…](https://iknow.jp/content/japanese) | 6K most popular words. It's a paid resource but it's got enough info for a nice little Anki deck, which is done by our [dedicated fetch script]([https://github.com/daigakulou…](https://github.com/daigakulounge/nihongo-wa-jouzu-desu-ne).) It has pre-made Anki decks too
+[https://iknow.jp/content/japa…](https://iknow.jp/content/japanese) | 6K most popular words. It's a paid resource but it's got enough info for a nice little Anki deck, which is done by our [dedicated fetch script](https://github.com/daigakulounge/nihongo-wa-jouzu-desu-ne). It has pre-made Anki decks too
 [https://docs.google.com/sprea…](https://docs.google.com/spreadsheets/d/1Qf3pXJ-XbE7AhXAHQms7YbNngODo9lDiFn41ofad7WA/edit#gid=644677095) | A curated 3K frequency list with Russian meanings and commentaries (WIP)
 
 ### Panates's Column ###
