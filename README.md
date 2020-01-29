@@ -17,7 +17,7 @@
 [http://www.guidetojapanese.or…](http://www.guidetojapanese.org/learn) - Тае Ким оригинал   
 [https://github.com/ignatiusre…](https://github.com/ignatiusreza/taekim/commit/b0d731cbf4a9b760eb136ae20a1db520f05ade21) - курс Тае Кима (англ) в виде приложения для Android   
 [https://itunes.apple.com/us/a…](https://itunes.apple.com/us/app/learning-japanese/id377785100?mt=8) - курс Тае Кима (англ) в виде приложения для iOS   
-[https://itazuraneko.neocities…]((https://itazuraneko.neocities.org/grammar/taekim.html) - ещё один Тае Ким     
+[https://itazuraneko.neocities…](https://itazuraneko.neocities.org/grammar/taekim.html) - ещё один Тае Ким     
 
 ### MIA ###
 [https://massimmersionapproach…](https://massimmersionapproach.com/table-of-contents/stage-1/jp-quickstart-guide/)   
