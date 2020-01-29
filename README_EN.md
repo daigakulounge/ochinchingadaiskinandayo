@@ -1,4 +1,4 @@
-[RU]([https://github.com/daigakulou…](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/README.md)) | **[EN]**
+[RU](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/README.md) | **[EN]**
 
 # Study Books #
 ### Various Resources ###
