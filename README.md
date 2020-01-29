@@ -6,7 +6,7 @@
 ### Подборка различных ресурсов ###
 [http://www.boku.ru/learn-japa…](http://www.boku.ru/learn-japanese/)   
 [https://www.imabi.net/](https://www.imabi.net/) - курс японского языка, немного похожий на Тае Кимовский   
-[http://krakozyabr.ru/](http://krakozyabr.ru/) - самоучитель японского языка на русском 
+[http://krakozyabr.ru/](http://krakozyabr.ru/) - самоучитель японского языка на русском    
 [http://maggiesensei.com/](http://maggiesensei.com/) - множество инфомации об японском языке на английском   
 [https://www.japanesewithanime…](https://www.japanesewithanime.com/) - японский на примерах из аниме и манги   
 [https://www.renshuu.org/](https://www.renshuu.org/) - изучение японского, справочник по грамматике, кандзи с примерами предложений    
@@ -15,7 +15,7 @@
 [http://vandal.sdf-eu.org/Japa…](http://vandal.sdf-eu.org/JapaneseGuide/) - Тае Ким русский перевод ( Grammar Guide )   
 [https://alex7kom.me/guide-to-…](https://alex7kom.me/guide-to-japanese/) - ещё один Тае Ким русский перевод ( Complete Guide )   
 [http://www.guidetojapanese.or…](http://www.guidetojapanese.org/learn) - Тае Ким оригинал   
-[https://github.com/ignatiusre…](https://github.com/ignatiusreza/taekim/commit/b0d731cbf4a9b760eb136ae20a1db520f05ade21) - курс Тае Кима (англ) в виде приложения для Android
+[https://github.com/ignatiusre…](https://github.com/ignatiusreza/taekim/commit/b0d731cbf4a9b760eb136ae20a1db520f05ade21) - курс Тае Кима (англ) в виде приложения для Android   
 [https://itunes.apple.com/us/a…](https://itunes.apple.com/us/app/learning-japanese/id377785100?mt=8) - курс Тае Кима (англ) в виде приложения для iOS   
 [https://itazuraneko.neocities…]([https://itazuraneko.neocities…](https://itazuraneko.neocities.org/)grammar/taekim.html) - ещё один Тае Ким     
 
@@ -69,7 +69,7 @@ https://mega.nz/#F!us0zECJI!QRAImzfFHRurzw09Jjswfg - Dogen 71+
  
 ### Общение о языках с нейтивами ###
 [https://www.tandem.net/](https://www.tandem.net/) - сайт где можно найти людей, которые хотят изучать определённый язык в обмен на свой или язык, который они знают   
-[https://www.hellotalk.com/](https://www.hellotalk.com/) - сайт на котором люди помогают друг другу в изучении языков
+[https://www.hellotalk.com/](https://www.hellotalk.com/) - сайт на котором люди помогают друг другу в изучении языков   
 [https://hinative.com/](https://hinative.com/) - сайт для помощи друг в другу в изучении языков, более направленный на конкретные вопросы о специфике языка к нейтивам  
 [https://discord.gg/4KNWACD](https://discord.gg/4KNWACD) - сервера Дискорд где обитают нативные японоговорящие, которые не прочь пообщаться       
 [https://discord.gg/4DhKzmh](https://discord.gg/4DhKzmh) - ещё один сервер
