@@ -17,7 +17,7 @@ Resource|Description
 -|-
 http://www.guidetojapanese.org/learn | The original Tae Kim's course
 https://github.com/ignatiusreza/taekim/commit/b0d731cbf4a9b760eb136ae20a1db520f05ade21 | Tae Kim's course as an Android app (no longer available on Play Store)
-https://itunes.apple.com/us/app/learning-japanese/id377785100?mt=8 - Tae Kim's course as an iOS app
+https://itunes.apple.com/us/app/learning-japanese/id377785100?mt=8 | Tae Kim's course as an iOS app
 https://itazuraneko.neocities.org/grammar/taekim.html | Even more Tae Kim
 http://vandal.sdf-eu.org/JapaneseGuide/ | Tae Kim translated to Russian ( Grammar Guide )   
 https://alex7kom.me/guide-to-japanese/ | Another Tae Kim translated to Russian ( Complete Guide )   
@@ -32,8 +32,8 @@ https://gist.github.com/askoufis/e67e637918e5b16d6f4a4da6b0bbe74d | Pretty simil
 ### DJT (Daily Japanese Thread) ###
 Resource|Description
 -|-
-https://djtguide.neocities.org/ - Useful stuff from 4chan's DJT (the archive)
-https://itazuraneko.neocities.org/ - The new DJT site
+https://djtguide.neocities.org/ | Useful stuff from 4chan's DJT (the archive)
+https://itazuraneko.neocities.org/ | The new DJT site
 
 ### Forever Fluent ###
 Resource|Description
@@ -160,17 +160,17 @@ https://japanencodings.blogspot.com/ | A blog with Western movies and cartoons w
 ### Files ###
 Resource|Description
 -|-
-https://docs.google.com/spreadsheets/d/1DePfUBtzlya3-ylCGkOERDjFucbZJNVoWf-5uem76U4/edit | Tanuki Simplified   
-https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/tatoeba_en_jp.json | A json dump of EN/JP sentence pairs
-https://docs.google.com/spreadsheets/d/1fEplq1S5f9wyVPzgzJw3v2l54w1KuvDf9yvNPU3AbG4/pubhtml | Links to mega with various materials on Japanese language ( https://djtguide.neocities.org/cor.html )
-https://docs.google.com/spreadsheets/d/1be-gX3ozkYBVbGVLAJHc8P6-gKCfZkVPRA_V6VaSQ00/pubhtml | Games and manga descriptions sorted by language difficulty level (partially download links too): ( https://djtguide.neocities.org/reading%20list.html )   
-https://b-ok.cc/book/2969336/2d5857 | An explanatory Japanese to Russian dictionary for onomatopoeia
-https://mega.nz/#F!x4VG3DRL!lqecF4q2ywojGLE0O8cu4A!BgFnyIQL | A mega folder with study materials for Japanese, older Japanese, Ryukyuan, and Korean. The top folders have multiple subfolders for many other languages
-https://mega.nz/#F!zZE2XSJS!AHJe6zfSuFzXh06XyiNYmA | A mega folder with dictionaries and study materials for Japanese language flavours of different epochs, as well as modern Japanese, Korean, and more. (Possibly partially the same as the previous link
-https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Decks | Anki decks made using various anime, made using subs2srs so it looks like screenshots or video bits (sometimes with Japanese subs hardcoded)
-http://www.studyjapanese.net/2013/03/tong-hop-tai-lieu-luyen-thi-jlpt-n1.html | JLPT N1 study materials
-https://mega.nz/#F!EBtxGRZB!rfYhYgB8zGDcEtNsMueSjQ | Same
-https://drive.google.com/open?id=0BxaIO8s_-pSac200Wm1odUF1czQ | A bunch of books on Japanese grammar (see the [folders above](https://drive.google.com/open?id=0BxaIO8s_-pSaWURWWXdNVl9TdEE) for the same information on many other languages)
+https://docs.google.com/spreadsheets/d/1DePfUBtzlya3-ylCGkOERDjFucbZJNVoWf-5uem76U4/edit - Tanuki Simplified   
+https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/tatoeba_en_jp.json - A json dump of EN/JP sentence pairs
+https://docs.google.com/spreadsheets/d/1fEplq1S5f9wyVPzgzJw3v2l54w1KuvDf9yvNPU3AbG4/pubhtml - Links to mega with various materials on Japanese language ( https://djtguide.neocities.org/cor.html )
+https://docs.google.com/spreadsheets/d/1be-gX3ozkYBVbGVLAJHc8P6-gKCfZkVPRA_V6VaSQ00/pubhtml - Games and manga descriptions sorted by language difficulty level (partially download links too): ( https://djtguide.neocities.org/reading%20list.html )   
+https://b-ok.cc/book/2969336/2d5857 - An explanatory Japanese to Russian dictionary for onomatopoeia
+https://mega.nz/#F!x4VG3DRL!lqecF4q2ywojGLE0O8cu4A!BgFnyIQL - A mega folder with study materials for Japanese, older Japanese, Ryukyuan, and Korean. The top folders have multiple subfolders for many other languages
+https://mega.nz/#F!zZE2XSJS!AHJe6zfSuFzXh06XyiNYmA - A mega folder with dictionaries and study materials for Japanese language flavours of different epochs, as well as modern Japanese, Korean, and more. (Possibly partially the same as the previous link
+https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Decks - Anki decks made using various anime, made using subs2srs so it looks like screenshots or video bits (sometimes with Japanese subs hardcoded)
+http://www.studyjapanese.net/2013/03/tong-hop-tai-lieu-luyen-thi-jlpt-n1.html - JLPT N1 study materials
+https://mega.nz/#F!EBtxGRZB!rfYhYgB8zGDcEtNsMueSjQ - Same
+https://drive.google.com/open?id=0BxaIO8s_-pSac200Wm1odUF1czQ - A bunch of books on Japanese grammar (see the [folders above](https://drive.google.com/open?id=0BxaIO8s_-pSaWURWWXdNVl9TdEE) for the same information on many other languages)
 
 
 # Obscure but Vital Things #
