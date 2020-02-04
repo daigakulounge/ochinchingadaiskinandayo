@@ -11,7 +11,15 @@
 [https://www.japanesewithanime…](https://www.japanesewithanime.com/) - японский на примерах из аниме и манги   
 [https://www.renshuu.org/](https://www.renshuu.org/) - изучение японского, справочник по грамматике, кандзи с примерами предложений    
 [https://tofugu.com/japanese/j…](https://tofugu.com/japanese/japanese-counters-list/) - удобный для понимания список японских счётных суффиксов   
-### Тае Ким ###
+
+### Тренировка каны
+ - [сайт с игрой-тренировкой](https://www.kongregate.com/games/akuradani/kana-drill)
+ - [то же](https://realkana.com/)
+ - [то же](https://kana.icann.se/)
+ - ["Learn ALL Hiragana in 1 Hour"(YT)](https://youtu.be/6p9Il_j0zjc)
+ - ["Learn ALL Katakana in 1 Hour"(YT)](https://youtu.be/s6DKRgtVLGA)
+
+### Tae Kim ###
 [http://vandal.sdf-eu.org/Japa…](http://vandal.sdf-eu.org/JapaneseGuide/) - Тае Ким русский перевод ( Grammar Guide )   
 [https://alex7kom.me/guide-to-…](https://alex7kom.me/guide-to-japanese/) - ещё один Тае Ким русский перевод ( Complete Guide )   
 [http://www.guidetojapanese.or…](http://www.guidetojapanese.org/learn) - Тае Ким оригинал   
@@ -44,15 +52,14 @@
 [https://drive.google.com/file…](https://drive.google.com/file/d/11pVv36DLN4TRgK-3SAJdi5xAT56S_QZy/view) - таблица примитивов RTK   
 [https://kanji.koohii.com/](https://kanji.koohii.com/) - чрезвычайно полезный сайт с коллекциями пользовательских историй для примитивов   
 
-### Pitch accent ###
-
-[https://github.com/olety/japa…](https://github.com/olety/japanese-pitch-accent-resources) - сборник ресурсов по питч-акценту   
-[https://github.com/daigakulou…](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/dogen) - Dogen 1-56 (курс по питч-акценту)    
-https://mega.nz/#F!us0zECJI!QRAImzfFHRurzw09Jjswfg - Dogen 71+   
+### Тоновые ударения ###
+[https://github.com/olety/japa…](https://github.com/olety/japanese-pitch-accent-resources) - сборник ресурсов по тоновым ударениям
+[https://github.com/daigakulou…](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/dogen) - Dogen 1-56 (курс)
+https://mega.nz/#F!us0zECJI!QRAImzfFHRurzw09Jjswfg - Dogen 71+
 
 ## Вспомогательные способы ##
 
-### Как читать вн ###
+### Как читать визуальные новеллы ###
 [https://vk.com/@-23712118-so-…](https://vk.com/@-23712118-so-you-wanna-be-a-weeb-vstaem-na-put-chteniya-yaponskogo) - на русском   
 [https://fuwanovel.net/2013/02…](https://fuwanovel.net/2013/02/how-to-read-visual-novels-in-japanese-in-2-years-time-or-1-year-if-you-are-fast-%E2%80%95-learn-to-read-through-vn-or-anime/) - на английском     
 
@@ -68,10 +75,10 @@ https://mega.nz/#F!us0zECJI!QRAImzfFHRurzw09Jjswfg - Dogen 71+
 # Различные полезные дополнительные ресурсы #
  
 ### Общение о языках с нейтивами ###
-[https://www.tandem.net/](https://www.tandem.net/) - сайт где можно найти людей, которые хотят изучать определённый язык в обмен на свой или язык, который они знают   
-[https://www.hellotalk.com/](https://www.hellotalk.com/) - сайт на котором люди помогают друг другу в изучении языков   
+[https://www.tandem.net/](https://www.tandem.net/) - сайт, где можно найти людей, которые хотят изучать определённый язык в обмен на свой или язык, который они знают   
+[https://www.hellotalk.com/](https://www.hellotalk.com/) - сайт, на котором люди помогают друг другу в изучении языков   
 [https://hinative.com/](https://hinative.com/) - сайт для помощи друг в другу в изучении языков, более направленный на конкретные вопросы о специфике языка к нейтивам  
-[https://discord.gg/4KNWACD](https://discord.gg/4KNWACD) - сервера Дискорд где обитают нативные японоговорящие, которые не прочь пообщаться       
+[https://discord.gg/4KNWACD](https://discord.gg/4KNWACD) - сервера Дискорд, где обитают нативные японоговорящие, которые не прочь пообщаться       
 [https://discord.gg/4DhKzmh](https://discord.gg/4DhKzmh) - ещё один сервер
 
 ### Immersion ###   
@@ -138,7 +145,8 @@ https://mega.nz/#F!zZE2XSJS!AHJe6zfSuFzXh06XyiNYmA - ссылка на папк�
 [https://www.mediafire.com/fol…](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Decks) - файлы с Анки-колодами по разнообразным аниме, сделанные при помощи subs2srs, т.е. скрин или видео кусок (возможно с японскими субтитрами) с аудио.   
 [http://www.studyjapanese.net/…](http://www.studyjapanese.net/2013/03/tong-hop-tai-lieu-luyen-thi-jlpt-n1.html)   
 https://mega.nz/#F!EBtxGRZB!rfYhYgB8zGDcEtNsMueSjQ - файлы для подготовки к JLPT N1   
-[https://drive.google.com/open…](https://drive.google.com/open?id=0BxaIO8s_-pSac200Wm1odUF1czQ) - подборка книг по грамматике японского языка (в [директориях выше]([https://drive.google.com/open…](https://drive.google.com/open?id=0BxaIO8s_-pSaWURWWXdNVl9TdEE)) аналогичная информация по широкому списку языков)   
+[https://drive.google.com/open…](https://drive.google.com/open?id=0BxaIO8s_-pSac200Wm1odUF1czQ) - подборка книг по грамматике японского языка (в [директориях выше]([https://drive.google.com/open…](https://drive.google.com/open?id=0BxaIO8s_-pSaWURWWXdNVl9TdEE)) аналогичная информация по широкому списку языков)
+[Путь бесхвостой птички (Mega)](https://mega.nz/#!oFkR3SjI!UHP5O9U0h3bjKs0DeZC84z82_vO_9wuzCKH68-MObbo) - изучение структуры кандзи, мнемоника
 
 ## Разное ##
 
