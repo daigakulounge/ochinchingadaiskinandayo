@@ -143,6 +143,7 @@ https://mega.nz/#F!EBtxGRZB!rfYhYgB8zGDcEtNsMueSjQ - файлы для подг�
 ## Разное ##
 
 [http://capture2text.sourcefor…](http://capture2text.sourceforge.net/) - OCR для манги   
+[http://ocrmangareaderforandro…]](http://ocrmangareaderforandroid.sourceforge.net/) - OCR для манги для Андроид
 
 
 
