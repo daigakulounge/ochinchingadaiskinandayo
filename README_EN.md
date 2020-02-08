@@ -198,6 +198,7 @@ Resource|Description
 Resource|Description
 -|-
 [http://capture2text.sourcefor…](http://capture2text.sourceforge.net/) | Manga OCR
+[http://ocrmangareaderforandro…](http://ocrmangareaderforandroid.sourceforge.net/) | Manga OCR reader (Android)   
 [http://www.comp.tmu.ac.jp/yos…](http://www.comp.tmu.ac.jp/yosihiro/teaching/how-to-read.pdf) | How to read math aloud in Japanese and English
 [http://thejadednetwork.com/sf…](http://thejadednetwork.com/sfx/) | Onomatopoeia explanations
 [https://www.mod.go.jp/atla/nd…](https://www.mod.go.jp/atla/nds/Y/Y0001D.pdf) | A Defence Ministry armaments glossary part 1   
