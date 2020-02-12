@@ -78,6 +78,7 @@ https://mega.nz/#F!us0zECJI!QRAImzfFHRurzw09Jjswfg - Dogen 71+
 [http://radio.garden/](http://radio.garden/) - красивый и необычный сайт с цифровывми радио со всего мира   
 [https://audiobook.jp/](https://audiobook.jp/) - аудиокниги на японском    
 [https://www.youtube.com/watch…](https://www.youtube.com/watch?v=QOLTeO-uCYU) - способ повышения плотности материала для иммерсии от Matt vs Japan (можно использовать [премейд колоды]([https://www.mediafire.com/fol…]([https://www.mediafire.com/fol…](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Decks))) как источник аудио)   
+[https://github.com/daigakuloun…](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/podcasts.md) - около 200 подкастов на японском языке. Также есть этот [список](https://raw.githubusercontent.com/daigakulounge/ochinchingadaiskinandayo/master/podcasts.opml) в формате для импорта в плееры подкастов.    
 
 ### Онлайн преподаватели ###
 [https://www.italki.com/](https://www.italki.com/) - широко известный сайт с большим числом преподавателей по различным языкам   
