@@ -98,6 +98,7 @@ Resource|Description
 [http://radio.garden/](http://radio.garden/) | A pretty and unique site featuring digital radios from all over the world
 [https://audiobook.jp/](https://audiobook.jp/) | Japanese audiobooks
 [https://www.youtube.com/watch…](https://www.youtube.com/watch?v=QOLTeO-uCYU) | A way to increase the immersion density by *Matt vs Japan* (the [premade decks](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Decks) can be used as audio sources)
+[https://github.com/daigakuloun…](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/podcasts.md) | Like 200 japanese podcasts! You also can import a [file](https://raw.githubusercontent.com/daigakulounge/ochinchingadaiskinandayo/master/podcasts.opml) with all of this treasure into your podacst player   
 
 ### Online Teachers ###
 Resource|Description
