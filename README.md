@@ -12,7 +12,14 @@
 [http://maggiesensei.com/](http://maggiesensei.com/) | множество инфомации об японском языке на английском   
 [https://www.japanesewithanime…](https://www.japanesewithanime.com/) | японский на примерах из аниме и манги   
 [https://www.renshuu.org/](https://www.renshuu.org/) | изучение японского, справочник по грамматике, кандзи с примерами предложений    
-[https://tofugu.com/japanese/j…](https://tofugu.com/japanese/japanese-counters-list/) | удобный для понимания список японских счётных суффиксов   
+[https://tofugu.com/japanese/j…](https://tofugu.com/japanese/japanese-counters-list/) | удобный для понимания список японских счётных суффиксов
+
+### Кана ###
+Тренировочные сайты:
+- https://www.kongregate.com/games/akuradani/kana-drill
+- https://realkana.com/
+- https://kana.icann.se/
+
 ### Тае Ким ###
 Ссылка|Описание
 -|-
