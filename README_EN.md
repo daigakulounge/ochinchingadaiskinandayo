@@ -12,6 +12,14 @@ Resource|Description
 [https://www.renshuu.org/](https://www.renshuu.org/) | Japanese language learning, grammar reference, kanji with sample sentences
 [https://tofugu.com/japanese/j…](https://tofugu.com/japanese/japanese-counters-list/) | An easy-to-grasp list of Japanese counters
 
+
+### Kana ###
+Practice exercises:
+- https://www.kongregate.com/games/akuradani/kana-drill
+- https://realkana.com/
+- https://kana.icann.se/
+
+
 ### Tae Kim's Course ###
 Resource|Description
 -|-
