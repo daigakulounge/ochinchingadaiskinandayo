@@ -1,5 +1,5 @@
 
-**[RU]** | [EN](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/README_EN.md)
+# **[RU]** | [EN](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/README_EN.md)
 
 
 # Учебные материалы #
