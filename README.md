@@ -1,6 +1,4 @@
-
 # **[RU]** | [EN](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/README_EN.md)
-
 
 # Учебные материалы #
 ### Подборка различных ресурсов ###
@@ -228,3 +226,5 @@
 #гайд #фишки #учительсильвер #японскиефишки #гайдотдоки #словарь #какучитьслова #ваига #виталик #каллиграфия #внки  #таеким #андроид 
 
 
+___
+# **[RU]** | [EN](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/README_EN.md)
