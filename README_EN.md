@@ -219,3 +219,7 @@ Resource|Description
 ## @daigaku_lounge Specific (Russian) ##
 #### Ras-provided Telegram Tags ####
 #гайд #фишки #учительсильвер #японскиефишки #гайдотдоки #словарь #какучитьслова #ваига #виталик #каллиграфия #внки #таеким #андроид 
+
+
+___
+# [RU](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/README.md) | **[EN]**
