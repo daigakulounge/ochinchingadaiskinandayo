@@ -106,7 +106,8 @@
 [http://radio.garden/](http://radio.garden/) | красивый и необычный сайт с цифровывми радио со всего мира   
 [https://audiobook.jp/](https://audiobook.jp/) | аудиокниги на японском    
 [https://www.youtube.com/watch…](https://www.youtube.com/watch?v=QOLTeO-uCYU) | способ повышения плотности материала для иммерсии от Matt vs Japan (можно использовать [премейд колоды]([https://www.mediafire.com/fol…]([https://www.mediafire.com/fol…](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Decks))) как источник аудио)   
-[https://github.com/daigakuloun…](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/podcasts.md) | около 200 подкастов на японском языке. Также есть этот [список](https://raw.githubusercontent.com/daigakulounge/ochinchingadaiskinandayo/master/podcasts.opml) в формате для импорта в плееры подкастов.    
+[https://github.com/daigakuloun…](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/podcasts.md) | около 200 подкастов на японском языке. Также есть этот [список](https://raw.githubusercontent.com/daigakulounge/ochinchingadaiskinandayo/master/podcasts.opml) в формате для импорта в плееры подкастов.      
+[https://mega.nz/folder/AKwUTQQ…](https://mega.nz/folder/AKwUTQQZ#MyrhiMmNmhemOGrR40bkow) | папка с аудиофайлами со сплошными диалогами из аниме, фильмов и видео-игр от телеграм канала [Japanese Transition](https://t.me/rustojap)    
 
 ### Онлайн преподаватели ###
 Ссылка|Описание
