@@ -107,6 +107,7 @@ Resource|Description
 [https://audiobook.jp/](https://audiobook.jp/) | Japanese audiobooks
 [https://www.youtube.com/watch…](https://www.youtube.com/watch?v=QOLTeO-uCYU) | A way to increase the immersion density by *Matt vs Japan* (the [premade decks](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Decks) can be used as audio sources)
 [https://github.com/daigakuloun…](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/podcasts.md) | Like 200 japanese podcasts! You also can import a [file](https://raw.githubusercontent.com/daigakulounge/ochinchingadaiskinandayo/master/podcasts.opml) with all of this treasure into your podacst player   
+[https://mega.nz/folder/AKwUTQQ…](https://mega.nz/folder/AKwUTQQZ#MyrhiMmNmhemOGrR40bkow) | A folder with audio files with continuous dialogs from anime, films and video games from telegram channel [Japanese Transition](https://t.me/rustojap)   
 
 ### Online Teachers ###
 Resource|Description
