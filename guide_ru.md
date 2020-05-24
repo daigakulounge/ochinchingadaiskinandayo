@@ -13,7 +13,7 @@
 
 В японском существуют 2 азбуки — **хирагана** и **катакана** (их также называют просто &quot;кана&quot;). Существует много сходных ресурсов для запоминания, вплоть от простой зубрежки до использования сайтов или программ.
 
-[Сайты](https://github.com/daigakulounge/ochinchingadaiskinandayo#%D0%BA%D0%B0%D0%BD%D0%B0) для запоминания и практики каны.
+[Сайты](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/links_ru.md#%D0%BA%D0%B0%D0%BD%D0%B0) для запоминания и практики каны.
 
 ---
 
