@@ -13,7 +13,7 @@
 
 Japanese has two "alphabets" called **hiragana** and **katakana** (they call the both &quot;kana&quot; for short). There are many essentially similar resources that can help you memorise it, using interactive sites, apps, or you can simply memorise it the old-school way if everything else fails.
 
-Here are [the sites](https://github.com/daigakulounge/ochinchingadaiskinandayo#%D0%BA%D0%B0%D0%BD%D0%B0) for memorising and practicing kana.
+Here are [the sites](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/links_en.md#kana) for memorising and practicing kana.
 
 ---
 
