@@ -83,6 +83,14 @@
 [http://subs2srs.sourceforge.n…](http://subs2srs.sourceforge.net/) | программа для полуавтоматического построения колод с изображениями / видео и субтитрами из видео файла   
 [https://www.mediafire.com/fol…](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Desks) | сделанные при помощи subs2srs колоды   
 
+#### Колоды для Анки ####
+Ссылка|Описание
+-|-
+[https://mega.nz/file/eTZHiSSL#…](https://mega.nz/file/eTZHiSSL#Fe_RFyEk2e-c0M7z_pWoNkyhRtg9itpQxVgzckQNlaU) | порядка 30К карточек с предложениями из Steins;Gate с озвучкой (от телеграм канала [Japanese Transition](https://t.me/rustojap) )  
+[https://mega.nz/#!pPQSSaoY!mBC…](https://mega.nz/#!pPQSSaoY!mBCQ-s5LSi602FZSFIvzxQ4vMpSrhX0cFLJXS_P_zSQ) | колода с предложениями уровня N5+ (содержит кандзи из более высоких уровней) (от телеграм канала [Japanese Transition](https://t.me/rustojap)) 
+[https://mega.nz/#!0GBgRa7L!H92…](https://mega.nz/#!0GBgRa7L!H92emGQQizBaPGWGhaoT8AjXJWNsTulwYSvkM20KA0g) | колода с предложениями уровня N4+ (содержит кандзи из более высоких уровней) (от телеграм канала [Japanese Transition](https://t.me/rustojap)) 
+
+
 ### Video lessons ###
 Ссылка|Описание
 -|-
