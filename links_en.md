@@ -83,6 +83,14 @@ Resource|Description
 [http://subs2srs.sourceforge.n…](http://subs2srs.sourceforge.net/) | An app for semi-auto deck building, with images/videos and subtitles from a video file
 [https://www.mediafire.com/fol…](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Desks) | Decks made using subs2srs
 
+#### Decks for Anki ####
+Ссылка|Описание
+-|-
+[https://mega.nz/file/eTZHiSSL#…](https://mega.nz/file/eTZHiSSL#Fe_RFyEk2e-c0M7z_pWoNkyhRtg9itpQxVgzckQNlaU) | ~30K sentences from Steins;Gate with audio (by courtesy of [Japanese Transition](https://t.me/rustojap) )  
+[https://mega.nz/#!pPQSSaoY!mBC…](https://mega.nz/#!pPQSSaoY!mBCQ-s5LSi602FZSFIvzxQ4vMpSrhX0cFLJXS_P_zSQ) | N5+ sentences (by courtesy of [Japanese Transition](https://t.me/rustojap)) 
+[https://mega.nz/#!0GBgRa7L!H92…](https://mega.nz/#!0GBgRa7L!H92emGQQizBaPGWGhaoT8AjXJWNsTulwYSvkM20KA0g) | N4+ sentences (by courtesy of [Japanese Transition](https://t.me/rustojap))
+
+
 ### Video lessons ###
 Resource|Description
 -|-
