@@ -164,6 +164,7 @@
 [https://www.youtube.com/watch…](https://www.youtube.com/watch?v=5oxdPY9eH48) | Импорт кучи разных словарей в yomichan   
 [https://downloads.freemdict.c…](https://downloads.freemdict.com/uploads/manjushri/yomichan/) | конкретные файлы-словари для Ёмичан   
 [http://jardic.ru/](http://jardic.ru/) | сайт со многими словарями    
+[https://nyars.okami.su/](https://nyars.okami.su/) | новый словарь, собранный из различных источников    
 
 ### Фильмы и сериалы на японском ###
 Ссылка|Описание
