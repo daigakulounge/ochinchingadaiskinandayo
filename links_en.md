@@ -163,7 +163,8 @@ Resource|Description
 [https://www.youtube.com/watch…](https://www.youtube.com/watch?v=yExI-Q_kQNg) | A guide on importing the Japanese explanatory dictionary Shinmeikai into Yomichan
 [https://www.youtube.com/watch…](https://www.youtube.com/watch?v=5oxdPY9eH48) | A guide on importing many various dictionaries into Yomichan
 [https://downloads.freemdict.c…](https://downloads.freemdict.com/uploads/manjushri/yomichan/) | Several dictionaries for Yomichan
-[http://jardic.ru/](http://jardic.ru/) | A site with many English/Russian ←→ Japanese dictionaries searchable at once, but stops at the first hit
+[http://jardic.ru/](http://jardic.ru/) | A site with many English/Russian ←→ Japanese dictionaries searchable at once, but stops at the first hit    
+[https://nyars.okami.su/](https://nyars.okami.su/) | New dictionary compiled from various sources.    
 
 ### Movies and Series in Japanese ###
 Resource|Description
