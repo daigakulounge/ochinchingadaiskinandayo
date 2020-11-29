@@ -120,7 +120,7 @@ Resource|Description
 [https://github.com/daigakuloun…](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/podcasts.md) | Like 200 japanese podcasts! You also can import a [file](https://raw.githubusercontent.com/daigakulounge/ochinchingadaiskinandayo/master/podcasts.opml) with all of this treasure into your podacst player   
 [https://mega.nz/folder/AKwUTQQ…](https://mega.nz/folder/AKwUTQQZ#MyrhiMmNmhemOGrR40bkow) | A folder with audio files with continuous dialogs from anime, films and video games from telegram channel [Japanese Transition](https://t.me/rustojap)   
 [http://immersion.wiki](http://immersion.wiki) | massive archive of japanese books, audiobooks, subs, anki decs, manga, vn, etc
-[https://japaneselevelup.com/d…](https://japaneselevelup.com/difficulty-level-guide-everything-japanese/) | The Difficulty Level Of Various Japanese Media (2016)
+[https://japaneselevelup.com/d…](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/difficulty-level-guide-everything-japanese.md) | The Difficulty Level Of Various Japanese Media (2016)
 [https://animelon.com](https://animelon.com) | portal with anime online (jp and eng subs)
 [https://github.com/animebook/…](https://github.com/animebook/animebook.github.io) | an HTML5 video player with navigable subtitles
 [https://mydramalist.com/](https://mydramalist.com/) | MAL for dorams
