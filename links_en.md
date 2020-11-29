@@ -36,6 +36,8 @@ Resource|Description
 [https://massimmersionapproach…](https://massimmersionapproach.com/table-of-contents/stage-1/jp-quickstart-guide/) |
 [https://www.youtube.com/watch…](https://www.youtube.com/watch?v=9PdPOxiWWuU) | MIA course
 [https://gist.github.com/askou…](https://gist.github.com/askoufis/e67e637918e5b16d6f4a4da6b0bbe74d) | Pretty similar to this URL collection, coming from *Matt vs Japan* and more structured (maybe some links don't work, we plan to snatch everything from there and store in here)
+[https://refold.la/](https://refold.la/) | new MattVsJapan's site after splitting with Yoga
+[https://www.youtube.com/chann…](https://www.youtube.com/channel/UCQFe3x4WAgm7joN5daMm5Ew) | Yoga's channel
 
 ### DJT (Daily Japanese Thread) ###
 Resource|Description
@@ -83,7 +85,7 @@ Resource|Description
 [http://subs2srs.sourceforge.n…](http://subs2srs.sourceforge.net/) | An app for semi-auto deck building, with images/videos and subtitles from a video file
 [https://www.mediafire.com/fol…](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Desks) | Decks made using subs2srs
 [https://github.com/Ajatt-Tool…](https://github.com/Ajatt-Tools/mpvacious) | Adds mpv keybindings to create Anki cards from movies and TV shows.
-[https://animecards.site/](https://sites.google.com/view/audio-cards-guide/) | how-to make an audoi Anki decks from various sources (anime, youtube, vn, etc) + [backup](https://mega.nz/file/eVt2GRST#wpm5jHuH3mjsPlMbRNtbrUKoaL_pBBKcQw_zv0ti7c8)
+[https://animecards.site/](https://mega.nz/file/CNUzAIxI#NoBLxl2ljXY2UraqYGK8J4BqQfFHLGVqv5yxCyZ5qQs) | how-to make an audoi Anki decks from various sources (anime, youtube, vn, etc) 
 #### Decks for Anki ####
 Ссылка|Описание
 -|-
@@ -121,7 +123,7 @@ Resource|Description
 [https://japaneselevelup.com/d…](https://japaneselevelup.com/difficulty-level-guide-everything-japanese/) | The Difficulty Level Of Various Japanese Media (2016)
 [https://animelon.com](https://animelon.com) | portal with anime online (jp and eng subs)
 [https://github.com/animebook/…](https://github.com/animebook/animebook.github.io) | an HTML5 video player with navigable subtitles
-
+[https://mydramalist.com/](https://mydramalist.com/) | MAL for dorams
 
 ### Online Teachers ###
 Resource|Description
