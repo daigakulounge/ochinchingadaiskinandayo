@@ -120,7 +120,7 @@
 [https://github.com/daigakuloun…](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/podcasts.md) | около 200 подкастов на японском языке. Также есть этот [список](https://raw.githubusercontent.com/daigakulounge/ochinchingadaiskinandayo/master/podcasts.opml) в формате для импорта в плееры подкастов.      
 [https://mega.nz/folder/AKwUTQQ…](https://mega.nz/folder/AKwUTQQZ#MyrhiMmNmhemOGrR40bkow) | папка с аудиофайлами со сплошными диалогами из аниме, фильмов и видео-игр от телеграм канала [Japanese Transition](https://t.me/rustojap)    
 [http://immersion.wiki](http://immersion.wiki) | большой архив книг, аудио-книг, японских субтитров, колод для анки, вн, манги, словарей и ещё разного 
-[https://japaneselevelup.com/d…](https://japaneselevelup.com/difficulty-level-guide-everything-japanese/) | Различные японские медиа (книги, аниме, вн), разбитые по сложности (на 2016 год)
+[https://japaneselevelup.com/d…](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/difficulty-level-guide-everything-japanese.md) | Различные японские медиа (книги, аниме, вн), разбитые по сложности (на 2016 год)
 [https://animelon.com](https://animelon.com) | сайт для просмотра аниме онлайн с английскими и японскими субтитрами
 [https://github.com/animebook/…](https://github.com/animebook/animebook.github.io) | онлайн-плеер для аниме с навигацией по субтитрам
 [https://mydramalist.com/](https://mydramalist.com/) | MAL для дорам
