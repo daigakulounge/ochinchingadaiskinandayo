@@ -34,7 +34,8 @@
 [https://massimmersionapproach…](https://massimmersionapproach.com/table-of-contents/stage-1/jp-quickstart-guide/)   
 [https://www.youtube.com/watch…](https://www.youtube.com/watch?v=9PdPOxiWWuU) | курс MIA (mass immersion approach)    
 [https://gist.github.com/askou…](https://gist.github.com/askoufis/e67e637918e5b16d6f4a4da6b0bbe74d) | фактически похожий на нашу подборку, только от Matt vs Japan и более структурированное (возможность часть ссылок не работает, планируется расхищение и перенесение материалов сюда)   
-
+[https://refold.la/](https://refold.la/) | новый сайт MattVsJapan после раскола с Yoga
+[https://www.youtube.com/chann…](https://www.youtube.com/channel/UCQFe3x4WAgm7joN5daMm5Ew) | канал Yoga 
 
 ### DJT ###
 Ссылка|Описание
@@ -83,7 +84,7 @@
 [http://subs2srs.sourceforge.n…](http://subs2srs.sourceforge.net/) | программа для полуавтоматического построения колод с изображениями / видео и субтитрами из видео файла   
 [https://www.mediafire.com/fol…](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Desks) | сделанные при помощи subs2srs колоды   
 [https://github.com/Ajatt-Tool…](https://github.com/Ajatt-Tools/mpvacious) |  Аддон для популярного видеоплеера mpv, дающий возможность создавать Anki карточки непосредственно при просмотре 
-[https://animecards.site/](https://sites.google.com/view/audio-cards-guide/) | сайт с описанием как создавать колоды для Анки с аудио из аниме, вн, ютьюба и т.п. ([бэкап](https://mega.nz/file/eVt2GRST#wpm5jHuH3mjsPlMbRNtbrUKoaL_pBBKcQw_zv0ti7c8))
+[https://animecards.site/](https://mega.nz/file/CNUzAIxI#NoBLxl2ljXY2UraqYGK8J4BqQfFHLGVqv5yxCyZ5qQs) | сайт с описанием как создавать колоды для Анки с аудио из аниме, вн, ютьюба и т.п. 
 
 #### Колоды для Анки ####
 Ссылка|Описание
@@ -122,6 +123,7 @@
 [https://japaneselevelup.com/d…](https://japaneselevelup.com/difficulty-level-guide-everything-japanese/) | Различные японские медиа (книги, аниме, вн), разбитые по сложности (на 2016 год)
 [https://animelon.com](https://animelon.com) | сайт для просмотра аниме онлайн с английскими и японскими субтитрами
 [https://github.com/animebook/…](https://github.com/animebook/animebook.github.io) | онлайн-плеер для аниме с навигацией по субтитрам
+[https://mydramalist.com/](https://mydramalist.com/) | MAL для дорам
 
 ### Онлайн преподаватели ###
 Ссылка|Описание
