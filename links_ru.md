@@ -57,7 +57,7 @@
 [https://vk.com/wall-32304974_…](https://vk.com/wall-32304974_9) | сами книги James W. Heisig | Remembering the Kanji    
 [https://b-ok.cc/book/3399680/…](https://b-ok.cc/book/3399680/2d4dca) | RTK vol.1, шестое издание       
 [https://b-ok.cc/book/987058/e…](https://b-ok.cc/book/987058/e4e09b) | RTK vol.3, с кандзи сверх основного списка   
-[https://nihongoshark.com/lear…](https://nihongoshark.com/learn-kanji/) | лонгрид от создателя nihongoshark как _относительно_ легко выучить все Jōyō Kanji за меньше, чем 100 дней   
+[https://nihongoshark.com/lear…](https://web.archive.org/web/20190310042908/https://nihongoshark.com/learn-kanji/) | лонгрид от создателя nihongoshark как _относительно_ легко выучить все Jōyō Kanji за меньше, чем 100 дней   
 [https://drive.google.com/file…](https://drive.google.com/file/d/11pVv36DLN4TRgK-3SAJdi5xAT56S_QZy/view) | таблица примитивов RTK   
 [https://kanji.koohii.com/](https://kanji.koohii.com/) | чрезвычайно полезный сайт с коллекциями пользовательских историй для примитивов   
 
@@ -82,6 +82,8 @@
 [https://apps.ankiweb.net/](https://apps.ankiweb.net/) | 100% необходима для изучения языков     
 [http://subs2srs.sourceforge.n…](http://subs2srs.sourceforge.net/) | программа для полуавтоматического построения колод с изображениями / видео и субтитрами из видео файла   
 [https://www.mediafire.com/fol…](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Desks) | сделанные при помощи subs2srs колоды   
+[https://github.com/Ajatt-Tool…](https://github.com/Ajatt-Tools/mpvacious) |  Аддон для популярного видеоплеера mpv, дающий возможность создавать Anki карточки непосредственно при просмотре 
+[https://animecards.site/](https://sites.google.com/view/audio-cards-guide/) | сайт с описанием как создавать колоды для Анки с аудио из аниме, вн, ютьюба и т.п. ([бэкап](https://mega.nz/file/eVt2GRST#wpm5jHuH3mjsPlMbRNtbrUKoaL_pBBKcQw_zv0ti7c8))
 
 #### Колоды для Анки ####
 Ссылка|Описание
@@ -89,7 +91,7 @@
 [https://mega.nz/file/eTZHiSSL#…](https://mega.nz/file/eTZHiSSL#Fe_RFyEk2e-c0M7z_pWoNkyhRtg9itpQxVgzckQNlaU) | порядка 30К карточек с предложениями из Steins;Gate с озвучкой (от телеграм канала [Japanese Transition](https://t.me/rustojap) )  
 [https://mega.nz/#!pPQSSaoY!mBC…](https://mega.nz/#!pPQSSaoY!mBCQ-s5LSi602FZSFIvzxQ4vMpSrhX0cFLJXS_P_zSQ) | колода с предложениями уровня N5+ (содержит кандзи из более высоких уровней) (от телеграм канала [Japanese Transition](https://t.me/rustojap)) 
 [https://mega.nz/#!0GBgRa7L!H92…](https://mega.nz/#!0GBgRa7L!H92emGQQizBaPGWGhaoT8AjXJWNsTulwYSvkM20KA0g) | колода с предложениями уровня N4+ (содержит кандзи из более высоких уровней) (от телеграм канала [Japanese Transition](https://t.me/rustojap)) 
-
+[https://www.mediafire.com/fil…](https://www.mediafire.com/file/1svvsr7f9cnpwka/Recognition_RTK.apkg/file) | колода от MattVsJapan с первой тысячей кандзей из RTK
 
 ### Video lessons ###
 Ссылка|Описание
@@ -116,6 +118,10 @@
 [https://www.youtube.com/watch…](https://www.youtube.com/watch?v=QOLTeO-uCYU) | способ повышения плотности материала для иммерсии от Matt vs Japan (можно использовать [премейд колоды]([https://www.mediafire.com/fol…]([https://www.mediafire.com/fol…](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Decks))) как источник аудио)   
 [https://github.com/daigakuloun…](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/podcasts.md) | около 200 подкастов на японском языке. Также есть этот [список](https://raw.githubusercontent.com/daigakulounge/ochinchingadaiskinandayo/master/podcasts.opml) в формате для импорта в плееры подкастов.      
 [https://mega.nz/folder/AKwUTQQ…](https://mega.nz/folder/AKwUTQQZ#MyrhiMmNmhemOGrR40bkow) | папка с аудиофайлами со сплошными диалогами из аниме, фильмов и видео-игр от телеграм канала [Japanese Transition](https://t.me/rustojap)    
+[http://immersion.wiki](http://immersion.wiki) | большой архив книг, аудио-книг, японских субтитров, колод для анки, вн, манги, словарей и ещё разного 
+[https://japaneselevelup.com/d…](https://japaneselevelup.com/difficulty-level-guide-everything-japanese/) | Различные японские медиа (книги, аниме, вн), разбитые по сложности (на 2016 год)
+[https://animelon.com](https://animelon.com) | сайт для просмотра аниме онлайн с английскими и японскими субтитрами
+[https://github.com/animebook/…](https://github.com/animebook/animebook.github.io) | онлайн-плеер для аниме с навигацией по субтитрам
 
 ### Онлайн преподаватели ###
 Ссылка|Описание
@@ -123,7 +129,6 @@
 [https://www.italki.com/](https://www.italki.com/) | широко известный сайт с большим числом преподавателей по различным языкам   
 [https://www.verbling.com/](https://www.verbling.com/) | аналогичный italki, но менее известный   
 [https://www.tandem.net/](https://www.tandem.net/) | помимо вышеописанного в нём есть секция с преподавателями за деньги  
-
 
 ### Приложения для Android и iOS ###
 Ссылка|Описание
@@ -164,7 +169,11 @@
 [https://www.youtube.com/watch…](https://www.youtube.com/watch?v=5oxdPY9eH48) | Импорт кучи разных словарей в yomichan   
 [https://downloads.freemdict.c…](https://downloads.freemdict.com/uploads/manjushri/yomichan/) | конкретные файлы-словари для Ёмичан   
 [http://jardic.ru/](http://jardic.ru/) | сайт со многими словарями    
-[https://nyars.okami.su/](https://nyars.okami.su/) | новый словарь, собранный из различных источников    
+[https://nyars.okami.su/](https://nyars.org/) | новый словарь, собранный из различных источников    
+[https://onedrive.live.com/?id…](https://onedrive.live.com/?id=AC31052BF2B8CA11%211937&cid=AC31052BF2B8CA11) | архив с большим количеством японских словарей в формате epwing
+[https://mega.nz/folder/GU1R3a…](https://mega.nz/folder/GU1R3arY#p47sidRig2HyhbVUjXptDA) | архив словарей для yomichan
+[https://docs.google.com/sprea…](https://docs.google.com/spreadsheets/d/1O1foq22IL7NoydLEAo7TMjs3z9VzuRzeWTmTH145ckM/edit?usp=drivesdk) | самопальный бизнес словарик от https://t.me/toky0clown (деревообработка и финансы)
+
 
 ### Фильмы и сериалы на японском ###
 Ссылка|Описание
@@ -190,13 +199,6 @@
 [http://www.studyjapanese.net/…](http://www.studyjapanese.net/2013/03/tong-hop-tai-lieu-luyen-thi-jlpt-n1.html)   
 [https://mega.nz/#F!EBtxGRZB!rfY…](https://mega.nz/#F!EBtxGRZB!rfYhYgB8zGDcEtNsMueSjQ) | файлы для подготовки к JLPT N1   
 [https://drive.google.com/open…](https://drive.google.com/open?id=0BxaIO8s_-pSac200Wm1odUF1czQ) | подборка книг по грамматике японского языка (в [директориях выше]([https://drive.google.com/open…](https://drive.google.com/open?id=0BxaIO8s_-pSaWURWWXdNVl9TdEE)) аналогичная информация по широкому списку языков)   
-
-## Разное ##
-Ссылка|Описание
--|-
-[http://capture2text.sourcefor…](http://capture2text.sourceforge.net/) | OCR для манги      
-[http://ocrmangareaderforandro…](http://ocrmangareaderforandroid.sourceforge.net/) | OCR для манги для Андроид    
-
 
 
 # Обскурные, но нужные вещи #
@@ -230,6 +232,10 @@
 [http://codh.rois.ac.jp/char-s…](http://codh.rois.ac.jp/char-shape/app/icv-kuzushiji/?manifest=http://codh.rois.ac.jp/char-shape/book/100249371/manifest.json&pos=21&lang=en) | в теории работающий AI OCR для рукописных кандзи   
 [http://kobun.ru/](http://kobun.ru/) | книги на древнеяпонском  
 [https://www.deepbrid.com/down…](https://www.deepbrid.com/downloader) | генератор быстроскачивающихся ссылок с файлообменников   
+[http://capture2text.sourcefor…](http://capture2text.sourceforge.net/) | OCR для манги      
+[http://ocrmangareaderforandro…](http://ocrmangareaderforandroid.sourceforge.net/) | OCR для манги для Андроид  
+[https://www.reddit.com/r/Lear…](https://www.reddit.com/r/LearnJapanese/comments/jt49jj/please_stop_thinking_in_terms_of_%E3%81%AF_vs_%E3%81%8C/) | пост на реддите о は и が  
+[http://www.shogi.net/shogivoc…](http://www.shogi.net/shogivocab/vocabhtml.html) | словарь терминов Сёги (японских шахмахт)
 
 ## @daigaku_lounge specifics ##
 #### теги от Раса ####
