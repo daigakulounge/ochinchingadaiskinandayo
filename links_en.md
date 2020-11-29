@@ -57,7 +57,7 @@ Resource|Description
 [https://vk.com/wall-32304974_…](https://vk.com/wall-32304974_9) | James W. Heisig's RTK proper
 [https://b-ok.cc/book/3399680/…](https://b-ok.cc/book/3399680/2d4dca) | RTK vol.1 6th Ed.
 [https://b-ok.cc/book/987058/e…](https://b-ok.cc/book/987058/e4e09b) | RTK vol.3, with kanji beyond the main list
-[https://nihongoshark.com/lear…](https://nihongoshark.com/learn-kanji/) | A longread from the creator of *nihongoshark* on how to laern all the Jōyō Kanji in three months *relatively* easily
+[https://nihongoshark.com/lear…](https://web.archive.org/web/20190310042908/https://nihongoshark.com/learn-kanji/) | A longread from the creator of *nihongoshark* on how to laern all the Jōyō Kanji in three months *relatively* easily
 [https://drive.google.com/file…](https://drive.google.com/file/d/11pVv36DLN4TRgK-3SAJdi5xAT56S_QZy/view) | A table of components for RTK
 [https://kanji.koohii.com/](https://kanji.koohii.com/) | A really helpful site with collections of user-submitted stories for the components
 
@@ -82,14 +82,15 @@ Resource|Description
 [https://apps.ankiweb.net/](https://apps.ankiweb.net/) | A 100% necessity for language drilling (← personal opinion)
 [http://subs2srs.sourceforge.n…](http://subs2srs.sourceforge.net/) | An app for semi-auto deck building, with images/videos and subtitles from a video file
 [https://www.mediafire.com/fol…](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Desks) | Decks made using subs2srs
-
+[https://github.com/Ajatt-Tool…](https://github.com/Ajatt-Tools/mpvacious) | Adds mpv keybindings to create Anki cards from movies and TV shows.
+[https://animecards.site/](https://sites.google.com/view/audio-cards-guide/) | how-to make an audoi Anki decks from various sources (anime, youtube, vn, etc) + [backup](https://mega.nz/file/eVt2GRST#wpm5jHuH3mjsPlMbRNtbrUKoaL_pBBKcQw_zv0ti7c8)
 #### Decks for Anki ####
 Ссылка|Описание
 -|-
 [https://mega.nz/file/eTZHiSSL#…](https://mega.nz/file/eTZHiSSL#Fe_RFyEk2e-c0M7z_pWoNkyhRtg9itpQxVgzckQNlaU) | ~30K sentences from Steins;Gate with audio (by courtesy of [Japanese Transition](https://t.me/rustojap) )  
 [https://mega.nz/#!pPQSSaoY!mBC…](https://mega.nz/#!pPQSSaoY!mBCQ-s5LSi602FZSFIvzxQ4vMpSrhX0cFLJXS_P_zSQ) | N5+ sentences (by courtesy of [Japanese Transition](https://t.me/rustojap)) 
 [https://mega.nz/#!0GBgRa7L!H92…](https://mega.nz/#!0GBgRa7L!H92emGQQizBaPGWGhaoT8AjXJWNsTulwYSvkM20KA0g) | N4+ sentences (by courtesy of [Japanese Transition](https://t.me/rustojap))
-
+[https://www.mediafire.com/fil…](https://www.mediafire.com/file/1svvsr7f9cnpwka/Recognition_RTK.apkg/file) | MattVsJapan's deck with the first 1K kanji from RTK
 
 ### Video lessons ###
 Resource|Description
@@ -116,6 +117,11 @@ Resource|Description
 [https://www.youtube.com/watch…](https://www.youtube.com/watch?v=QOLTeO-uCYU) | A way to increase the immersion density by *Matt vs Japan* (the [premade decks](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Decks) can be used as audio sources)
 [https://github.com/daigakuloun…](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/podcasts.md) | Like 200 japanese podcasts! You also can import a [file](https://raw.githubusercontent.com/daigakulounge/ochinchingadaiskinandayo/master/podcasts.opml) with all of this treasure into your podacst player   
 [https://mega.nz/folder/AKwUTQQ…](https://mega.nz/folder/AKwUTQQZ#MyrhiMmNmhemOGrR40bkow) | A folder with audio files with continuous dialogs from anime, films and video games from telegram channel [Japanese Transition](https://t.me/rustojap)   
+[http://immersion.wiki](http://immersion.wiki) | massive archive of japanese books, audiobooks, subs, anki decs, manga, vn, etc
+[https://japaneselevelup.com/d…](https://japaneselevelup.com/difficulty-level-guide-everything-japanese/) | The Difficulty Level Of Various Japanese Media (2016)
+[https://animelon.com](https://animelon.com) | portal with anime online (jp and eng subs)
+[https://github.com/animebook/…](https://github.com/animebook/animebook.github.io) | an HTML5 video player with navigable subtitles
+
 
 ### Online Teachers ###
 Resource|Description
@@ -164,7 +170,10 @@ Resource|Description
 [https://www.youtube.com/watch…](https://www.youtube.com/watch?v=5oxdPY9eH48) | A guide on importing many various dictionaries into Yomichan
 [https://downloads.freemdict.c…](https://downloads.freemdict.com/uploads/manjushri/yomichan/) | Several dictionaries for Yomichan
 [http://jardic.ru/](http://jardic.ru/) | A site with many English/Russian ←→ Japanese dictionaries searchable at once, but stops at the first hit    
-[https://nyars.okami.su/](https://nyars.okami.su/) | New dictionary compiled from various sources.    
+[https://nyars.okami.su/](https://nyars.org/) | New dictionary compiled from various sources.    
+[https://onedrive.live.com/?id…](https://onedrive.live.com/?id=AC31052BF2B8CA11%211937&cid=AC31052BF2B8CA11) | big archive with japanese dictionaries in epwing 
+[https://mega.nz/folder/GU1R3a…](https://mega.nz/folder/GU1R3arY#p47sidRig2HyhbVUjXptDA) | dictionaries for yomichan
+[https://docs.google.com/sprea…](https://docs.google.com/spreadsheets/d/1O1foq22IL7NoydLEAo7TMjs3z9VzuRzeWTmTH145ckM/edit?usp=drivesdk) | selfmade dictionary (jp-ru) from https://t.me/toky0clown (woodworking and finance)
 
 ### Movies and Series in Japanese ###
 Resource|Description
@@ -225,6 +234,8 @@ Resource|Description
 [http://codh.rois.ac.jp/char-s…](http://codh.rois.ac.jp/char-shape/app/icv-kuzushiji/?manifest=http://codh.rois.ac.jp/char-shape/book/100249371/manifest.json&pos=21&lang=en) | a NN-based OCR for handwritten kanji which *should* often work
 [http://kobun.ru/](http://kobun.ru/) | Books in Old Japanese
 [https://www.deepbrid.com/down…](https://www.deepbrid.com/downloader) | A time/IP-limited generator of quick download links for various file exchange servers
+[https://www.reddit.com/r/Lear…](https://www.reddit.com/r/LearnJapanese/comments/jt49jj/please_stop_thinking_in_terms_of_%E3%81%AF_vs_%E3%81%8C/) | は vs が
+[http://www.shogi.net/shogivoc…](http://www.shogi.net/shogivocab/vocabhtml.html) | Hans Geuns' Basic Shogi Vocabulary 
 
 ## @daigaku_lounge Specific (Russian) ##
 #### Ras-provided Telegram Tags ####
